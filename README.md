@@ -3,7 +3,7 @@
 
 ### Files
 
-[data and models](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/)
+[data and models](https://console.cloud.google.com/storage/browser/ai2-mosaic-public/projects/symbolic-knowledge-decoding/)
 
 **mosaic-ckd_unique_data.jsonl**
 
