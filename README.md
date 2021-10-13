@@ -8,7 +8,7 @@ Code for repeating our experiments will be available soon.
 
 ### Files
 
-[data and models](https://console.cloud.google.com/storage/browser/ai2-mosaic-public/projects/symbolic-knowledge-decoding/)
+All [data and models](https://console.cloud.google.com/storage/browser/ai2-mosaic-public/projects/symbolic-knowledge-decoding/) are available for download.
 
 **mATOMIC10X.jsonl**
 
