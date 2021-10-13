@@ -1,1 +1,1 @@
-# symbolic-knowledge-decoding
+# symbolic-knowledge-distillation
