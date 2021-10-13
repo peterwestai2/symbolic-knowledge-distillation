@@ -1,11 +1,16 @@
-# symbolic-knowledge-distillation
+# Symbolic Knowledge Distillation
 
+This is the repository for the project Symbolic Knowledge Distillation: from General Language Models to Commonsense Models
+
+We include our generated commonsense knowledge graph (ATOMIC-10X) and resulting commonsense models (COMET-DISTIL).
+
+Code for repeating our experiments will be available soon.
 
 ### Files
 
 [data and models](https://console.cloud.google.com/storage/browser/ai2-mosaic-public/projects/symbolic-knowledge-decoding/)
 
-**mosaic-ckd_unique_data.jsonl**
+**mATOMIC10X.jsonl**
 
 Each line contains 1 example (event/relation/inference triple) from the full ATOMIC-10X corpus
 
