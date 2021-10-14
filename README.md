@@ -6,13 +6,13 @@ We include our generated commonsense knowledge graph (ATOMIC-10X) and resulting 
 
 Code for repeating our experiments will be available soon.
 
-### Files
+## Files
 
 All [data and models](https://console.cloud.google.com/storage/browser/ai2-mosaic-public/projects/symbolic-knowledge-decoding/) are available for download.
 
-**mATOMIC10X.jsonl**
+**ATOMIC10X.jsonl**
 
-Each line contains 1 example (event/relation/inference triple) from the full ATOMIC-10X corpus
+Each line contains 1 example (event/relation/inference triple) from the full **ATOMIC-10X** corpus. Variants filtered by the critic can be created using the rec_X fields to filter out data at various thresholds.
 
 
 Fields:
@@ -29,3 +29,8 @@ split: the dataset split for this example, one of: [train,test,val]
 rec_X: whether this example is cutoff by the critic at an expected recall of X. Our high-filtration corpus uses 0.5, medium uses 0.8 (bool)
         
 p_valid_model: the score assigned by the critic model (float)
+
+
+
+**COMET-Distil Models to be added soon**
+
