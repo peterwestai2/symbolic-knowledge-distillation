@@ -32,5 +32,11 @@ p_valid_model: the score assigned by the critic model (float)
 
 
 
-**COMET-Distil Models to be added soon**
+**COMET-Distill models**
+
+These follow a standard huggingface format. For each model, we include a file with .bin and config files. We also include outputs on a test set of inputs. Our human evaluation uses a subset of these.
+
+We also include a tokenizer.
+
+Please contact the authors to learn more about using these models.
 
