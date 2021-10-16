@@ -1,6 +1,6 @@
 # Symbolic Knowledge Distillation
 
-This is the repository for the project Symbolic Knowledge Distillation: from General Language Models to Commonsense Models
+This is the repository for the project [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://arxiv.org/abs/2110.07178)
 
 We include our generated commonsense knowledge graph (ATOMIC-10X) and resulting commonsense models (COMET-DISTIL).
 
