@@ -6,6 +6,8 @@ We include our generated commonsense knowledge graph (ATOMIC-10X) and resulting 
 
 Code for repeating our experiments will be available soon.
 
+NOTE: For the time being, please contact the authors directly with any questions about data, models, and code
+
 ## Files
 
 All [data and models](https://console.cloud.google.com/storage/browser/ai2-mosaic-public/projects/symbolic-knowledge-decoding/) are available for download.
