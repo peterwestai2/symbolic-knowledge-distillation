@@ -1,0 +1,5 @@
+tensorflow
+transformers
+names
+numpy
+ftfy
