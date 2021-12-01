@@ -10,7 +10,7 @@ NOTE: For the time being, please contact the authors directly with any questions
 
 ## Files
 
-All [data and models](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/) are available for download.
+All [data and models](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation.tar.gz) are available for download.
 
 **ATOMIC10X.jsonl**
 
