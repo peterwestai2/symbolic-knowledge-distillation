@@ -8,7 +8,7 @@ Code for repeating our experiments will be available soon.
 
 NOTE: For the time being, please contact the authors directly with any questions about data, models, and code
 
-## Files
+## Data/Model Release
 
 All [data and models](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation.tar.gz) are available for download.
 
