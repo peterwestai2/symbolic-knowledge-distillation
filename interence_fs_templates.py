@@ -414,8 +414,7 @@ PersonX rides PersonY's skateboard	xNeed	to be at the skate park
 PersonX takes a quick nap	xNeed	to lie down
 PersonX handles the situation	xNeed	to have an issue
 PersonX gets a new phone	xNeed	to pay for the new phone
-PersonX takes the trash out	xNeed	to gather the trash
-"""
+PersonX takes the trash out	xNeed	to gather the trash"""
     
 lines = [v.split('\t') for v in  examples_string.split('\n')]
 
