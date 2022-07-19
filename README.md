@@ -7,13 +7,17 @@ We include data/model resources from the work: generated commonsense knowledge g
 We also include a **quick start** section describing how to carry out key steps from the work.
 
 ___
+# Data/Model Updates
 
-# Data/Model Release
+We will include new versions of ATOMIC-10X and COMET-distill here.
 
-**UPDATES** multiple versions available:
-[**v1.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation.tar.gz) the original version described in our work.
+[**v1.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation.tar.gz) the original version described in our work and in the "Data/Model Release" section below.
+
 [**v2.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation_2.0.gz) updated version which includes new relations {oReact, oEffect, oWant, oNeed, isAfter, isBefore}. These follow relations from Hwang et al. 2020 focussed on PersonX/PersonY events. 
 
+___
+
+# Data/Model Release
 
 
 All [data and models](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation.tar.gz) are available for download.
