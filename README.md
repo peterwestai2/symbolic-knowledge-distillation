@@ -10,6 +10,12 @@ ___
 
 # Data/Model Release
 
+**UPDATES** multiple versions available:
+[**v1.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation.tar.gz) the original version described in our work.
+[**v2.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation_2.0.gz) updated version which includes new relations {oReact, oEffect, oWant, oNeed, isAfter, isBefore}. These follow relations from Hwang et al. 2020 focussed on PersonX/PersonY events. 
+
+
+
 All [data and models](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation.tar.gz) are available for download.
 
 **ATOMIC10X.jsonl**
