@@ -11,9 +11,9 @@ ___
 
 We will include new versions of ATOMIC-10X and COMET-distill here.
 
-[**v1.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation.tar.gz) the original version described in our work and in the "Data/Model Release" section below. This version includes relations {xAttr, xWant, xNeed, xReact, xEffect, xIntent, HinderedBy}
+[**v1.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation_1.0.tar.gz) the original version described in our work and in the "Data/Model Release" section below. This version includes relations {xAttr, xWant, xNeed, xReact, xEffect, xIntent, HinderedBy}
 
-[**v2.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation_2.0.gz) updated version which includes new relations {oReact, oEffect, oWant, oNeed, isAfter, isBefore}. These follow relations from [Hwang et al. 2020](https://arxiv.org/pdf/2010.05953.pdf), focussed on the same PersonX/PersonY-style events used in v1.0
+[**v2.0**:](https://storage.googleapis.com/ai2-mosaic-public/projects/symbolic-knowledge-decoding/symbolic-knowledge-distillation_2.0.tar.gz) updated version which includes new relations {oReact, oEffect, oWant, oNeed, isAfter, isBefore}. These follow relations from [Hwang et al. 2020](https://arxiv.org/pdf/2010.05953.pdf), focussed on the same PersonX/PersonY-style events used in v1.0
 
 ___
 
