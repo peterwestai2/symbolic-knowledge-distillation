@@ -36,11 +36,15 @@ Fields:
 
 - tail: the inference for this example (string)
 
+- inference: identical to tail
+
 - split: the dataset split for this example, one of: [train,test,val]
 
 - rec_X: whether this example is cutoff by the critic at an expected recall of X. Our high-filtration corpus uses 0.5, medium uses 0.8 (bool)
         
 - p_valid_model: the score assigned by the critic model (float)
+
+- valid: the human annotation, if available. These are raw values in {2,1,-1,-2,-9}. For the purposes of the critica model, this is binarized to values > 0 vs. < 0.
 
 
 
